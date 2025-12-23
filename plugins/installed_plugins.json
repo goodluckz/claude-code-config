@@ -30,6 +30,28 @@
         "lastUpdated": "2025-12-23T08:02:58.421Z",
         "isLocal": true
       }
+    ],
+    "github@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/zhaoliang/.claude/plugins/cache/claude-plugins-official/github/6d3752c000e2",
+        "version": "6d3752c000e2",
+        "installedAt": "2025-12-23T08:51:35.758Z",
+        "lastUpdated": "2025-12-23T08:53:04.809Z",
+        "gitCommitSha": "0c3ad5530448e280361a8654755823042094e469",
+        "isLocal": true
+      }
+    ],
+    "commit-commands@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/zhaoliang/.claude/plugins/cache/claude-plugins-official/commit-commands/6d3752c000e2",
+        "version": "6d3752c000e2",
+        "installedAt": "2025-12-23T09:10:34.607Z",
+        "lastUpdated": "2025-12-23T09:10:41.949Z",
+        "gitCommitSha": "0c3ad5530448e280361a8654755823042094e469",
+        "isLocal": true
+      }
     ]
   }
 }
