@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "plugins": {
+    "pyright-lsp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/zhaoliang/.claude/plugins/cache/claude-plugins-official/pyright-lsp/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2025-12-22T03:09:10.928Z",
+        "lastUpdated": "2025-12-22T03:09:10.928Z",
+        "isLocal": true
+      }
+    ],
+    "example-skills@anthropic-agent-skills": [
+      {
+        "scope": "user",
+        "installPath": "/Users/zhaoliang/.claude/plugins/cache/anthropic-agent-skills/example-skills/unknown",
+        "version": "unknown",
+        "installedAt": "2025-12-23T07:59:08.202Z",
+        "lastUpdated": "2025-12-23T07:59:08.202Z",
+        "isLocal": true
+      }
+    ],
+    "context7@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/zhaoliang/.claude/plugins/cache/claude-plugins-official/context7/6d3752c000e2",
+        "version": "6d3752c000e2",
+        "installedAt": "2025-12-23T08:02:49.579Z",
+        "lastUpdated": "2025-12-23T08:02:58.421Z",
+        "isLocal": true
+      }
+    ]
+  }
+}

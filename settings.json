@@ -1,0 +1,8 @@
+{
+  "model": "haiku",
+  "enabledPlugins": {
+    "pyright-lsp@claude-plugins-official": true,
+    "example-skills@anthropic-agent-skills": true,
+    "context7@claude-plugins-official": true
+  }
+}

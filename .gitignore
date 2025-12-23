@@ -1,0 +1,43 @@
+# Claude Code Configuration .gitignore
+# Ignore generated, cached, and session-specific files
+
+# Session and Conversation Data
+/projects/
+/history.jsonl
+/shell-snapshots/
+/session-env/
+
+# Task and Plan Tracking (session-specific)
+/todos/
+/plans/
+
+# Debug and Diagnostic Logs
+/debug/
+/file-history/
+
+# Plugin Downloads and Caches
+/plugins/cache/
+/plugins/marketplaces/
+
+# Analytics and Usage Data
+/stats-cache.json
+/statsig/
+
+# Temporary Downloads
+/downloads/
+
+# System Files
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Keep these files - they contain valuable configuration
+!/.gitignore
+!/settings.json
+!/plugins/known_marketplaces.json
+!/plugins/installed_plugins.json
+!/skills/
+!/CLAUDE.md
