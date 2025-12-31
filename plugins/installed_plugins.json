@@ -52,6 +52,17 @@
         "gitCommitSha": "0c3ad5530448e280361a8654755823042094e469",
         "isLocal": true
       }
+    ],
+    "claude-mem@thedotmack": [
+      {
+        "scope": "user",
+        "installPath": "/Users/zhaoliang/.claude/plugins/cache/thedotmack/claude-mem/8.0.2",
+        "version": "8.0.2",
+        "installedAt": "2025-12-23T09:45:24.287Z",
+        "lastUpdated": "2025-12-23T09:45:24.287Z",
+        "gitCommitSha": "2c1e495babb3055b48dec3b8ea4415e8fddbc9f8",
+        "isLocal": true
+      }
     ]
   }
 }

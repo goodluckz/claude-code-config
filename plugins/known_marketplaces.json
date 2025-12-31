@@ -5,7 +5,7 @@
       "repo": "anthropics/claude-plugins-official"
     },
     "installLocation": "/Users/zhaoliang/.claude/plugins/marketplaces/claude-plugins-official",
-    "lastUpdated": "2025-12-23T09:11:04.955Z"
+    "lastUpdated": "2025-12-31T02:12:08.861Z"
   },
   "anthropic-agent-skills": {
     "source": {
@@ -14,5 +14,13 @@
     },
     "installLocation": "/Users/zhaoliang/.claude/plugins/marketplaces/anthropic-agent-skills",
     "lastUpdated": "2025-12-23T07:58:51.056Z"
+  },
+  "thedotmack": {
+    "source": {
+      "source": "github",
+      "repo": "thedotmack/claude-mem"
+    },
+    "installLocation": "/Users/zhaoliang/.claude/plugins/marketplaces/thedotmack",
+    "lastUpdated": "2025-12-23T09:45:18.213Z"
   }
 }
