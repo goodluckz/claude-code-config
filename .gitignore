@@ -6,10 +6,12 @@
 /history.jsonl
 /shell-snapshots/
 /session-env/
+/sessions/
 
 # Task and Plan Tracking (session-specific)
 /todos/
 /plans/
+/tasks/
 
 # Debug and Diagnostic Logs
 /debug/
@@ -18,14 +20,31 @@
 # Plugin Downloads and Caches
 /plugins/cache/
 /plugins/marketplaces/
+/plugins/blocklist.json
 
 # Analytics and Usage Data
 /stats-cache.json
 /statsig/
 /telemetry/
 
-# Temporary Downloads
+# Cache and Temporary Data
+/cache/
 /downloads/
+/paste-cache/
+/backups/
+
+# IDE and Runtime State
+/ide/
+
+# MCP Configuration and Cache
+/mcp.json
+/mcp-needs-auth-cache.json
+
+# Local Settings (not shared)
+/settings.local.json
+
+# Credentials and Secrets
+/.credentials.json
 
 # System Files
 .DS_Store
