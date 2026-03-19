@@ -7,8 +7,7 @@
         "installPath": "/Users/zhaoliang/.claude/plugins/cache/claude-plugins-official/pyright-lsp/1.0.0",
         "version": "1.0.0",
         "installedAt": "2025-12-22T03:09:10.928Z",
-        "lastUpdated": "2025-12-22T03:09:10.928Z",
-        "isLocal": true
+        "lastUpdated": "2025-12-22T03:09:10.928Z"
       }
     ],
     "example-skills@anthropic-agent-skills": [
@@ -17,40 +16,46 @@
         "installPath": "/Users/zhaoliang/.claude/plugins/cache/anthropic-agent-skills/example-skills/unknown",
         "version": "unknown",
         "installedAt": "2025-12-23T07:59:08.202Z",
-        "lastUpdated": "2025-12-23T07:59:08.202Z",
-        "isLocal": true
+        "lastUpdated": "2025-12-23T07:59:08.202Z"
       }
     ],
     "context7@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/Users/zhaoliang/.claude/plugins/cache/claude-plugins-official/context7/6d3752c000e2",
-        "version": "6d3752c000e2",
+        "installPath": "/Users/zhaoliang/.claude/plugins/cache/claude-plugins-official/context7/158ef95c6f7f",
+        "version": "158ef95c6f7f",
         "installedAt": "2025-12-23T08:02:49.579Z",
-        "lastUpdated": "2026-01-05T04:38:11.949Z",
-        "isLocal": true
-      }
-    ],
-    "github@claude-plugins-official": [
-      {
-        "scope": "user",
-        "installPath": "/Users/zhaoliang/.claude/plugins/cache/claude-plugins-official/github/6d3752c000e2",
-        "version": "6d3752c000e2",
-        "installedAt": "2025-12-23T08:51:35.758Z",
-        "lastUpdated": "2026-01-05T04:38:11.949Z",
-        "gitCommitSha": "0c3ad5530448e280361a8654755823042094e469",
-        "isLocal": true
+        "lastUpdated": "2026-03-19T02:12:48.706Z"
       }
     ],
     "commit-commands@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/Users/zhaoliang/.claude/plugins/cache/claude-plugins-official/commit-commands/6d3752c000e2",
-        "version": "6d3752c000e2",
+        "installPath": "/Users/zhaoliang/.claude/plugins/cache/claude-plugins-official/commit-commands/158ef95c6f7f",
+        "version": "158ef95c6f7f",
         "installedAt": "2025-12-23T09:10:34.607Z",
-        "lastUpdated": "2026-01-05T04:38:11.950Z",
-        "gitCommitSha": "0c3ad5530448e280361a8654755823042094e469",
-        "isLocal": true
+        "lastUpdated": "2026-03-19T02:12:48.707Z",
+        "gitCommitSha": "0c3ad5530448e280361a8654755823042094e469"
+      }
+    ],
+    "learning-output-style@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/zhaoliang/.claude/plugins/cache/claude-plugins-official/learning-output-style/158ef95c6f7f",
+        "version": "158ef95c6f7f",
+        "installedAt": "2026-01-16T07:36:11.163Z",
+        "lastUpdated": "2026-03-19T02:12:48.708Z",
+        "gitCommitSha": "96276205880a60fd66bbae981f5ab568e70c4cbf"
+      }
+    ],
+    "feature-dev@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/zhaoliang/.claude/plugins/cache/claude-plugins-official/feature-dev/158ef95c6f7f",
+        "version": "158ef95c6f7f",
+        "installedAt": "2026-01-16T07:36:26.845Z",
+        "lastUpdated": "2026-03-19T02:12:48.710Z",
+        "gitCommitSha": "96276205880a60fd66bbae981f5ab568e70c4cbf"
       }
     ],
     "claude-mem@thedotmack": [
@@ -58,10 +63,19 @@
         "scope": "user",
         "installPath": "/Users/zhaoliang/.claude/plugins/cache/thedotmack/claude-mem/8.0.2",
         "version": "8.0.2",
-        "installedAt": "2025-12-23T09:45:24.287Z",
-        "lastUpdated": "2025-12-23T09:45:24.287Z",
-        "gitCommitSha": "2c1e495babb3055b48dec3b8ea4415e8fddbc9f8",
-        "isLocal": true
+        "installedAt": "2026-01-18T04:31:41.648Z",
+        "lastUpdated": "2026-01-18T04:31:41.648Z",
+        "gitCommitSha": "f491b61f4f9085082ca9109ef511e2c6bfecf002"
+      }
+    ],
+    "explanatory-output-style@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/zhaoliang/.claude/plugins/cache/claude-plugins-official/explanatory-output-style/158ef95c6f7f",
+        "version": "158ef95c6f7f",
+        "installedAt": "2026-01-21T01:58:37.639Z",
+        "lastUpdated": "2026-03-19T02:12:48.707Z",
+        "gitCommitSha": "2c255a1bf3986a4dde933e829f01a64797d206ac"
       }
     ]
   }
